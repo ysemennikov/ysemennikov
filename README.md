@@ -1,7 +1,7 @@
  - 👋 Hi, I’m Yaroslav!
  - 📫 How to reach me:
-	 - [Telegram](https://t.me/ysemennikov)
-	 - [Email](mailto:embrane@ya.ru)
+	 - [Telegram @ysemennikov](https://t.me/ysemennikov)
+	 - [ysmnnkv@gmail.com](mailto:ysmnnkv@gmail.com)
 
 <!---
 ysemennikov/ysemennikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
